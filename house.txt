@@ -10,3 +10,5 @@ doors
 electricity lines
 gas pipes
 water pipes
+indoor walls
+room
