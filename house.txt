@@ -3,3 +3,7 @@ pillar
 flats
 roofs
 walls
+floors
+ceilings
+windows
+doors
