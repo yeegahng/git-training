@@ -7,3 +7,6 @@ floors
 ceilings
 windows
 doors
+electricity lines
+gas pipes
+water pipes
