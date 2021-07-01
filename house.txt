@@ -9,3 +9,7 @@ kitchen
 restroom
 hallway
 foyer
+garage
+storeroom
+attic
+yard
