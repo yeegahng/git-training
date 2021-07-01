@@ -1,3 +1,5 @@
 basement
 pillar
 flats
+roofs
+walls
