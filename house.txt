@@ -1,16 +1,11 @@
-basement
-pillar
-flats
-roofs
-walls
-floors
-ceilings
-windows
-doors
 electricity lines
 gas pipes
 water pipes
-indoor walls
 room1
 room2
 room3
+living room
+kitchen
+restroom
+hallway
+foyer
