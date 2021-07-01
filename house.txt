@@ -11,4 +11,6 @@ electricity lines
 gas pipes
 water pipes
 indoor walls
-room
+room1
+room2
+room3
