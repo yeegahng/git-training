@@ -12,4 +12,7 @@ foyer
 garage
 storeroom
 attic
-yard
+frontyard
+backyard
+porch
+fence
